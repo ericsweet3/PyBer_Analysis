@@ -12,8 +12,13 @@ For this project, I helped PyBer create an overview of the ride-sharing data by 
 
 ## PyBer Analysis
 
+![PyBer_summary](https://user-images.githubusercontent.com/75768098/105638422-23fe9b00-5e38-11eb-901b-c741a2d6acd4.png)
+
 - Summary: By the way of looking at both charts, we can see that Urban cities vastly outperform the other city types in terms of number of rides, yet we see that the rides are mostly short and the fares are low per ride. The opposite can be said of the Rural areas, which have the least amount of rides, but they are much longer in terms of distance and the fares are much higher compared to Urban and Suburban
 - We see that in late February, mid March, and in April that rides tended to spike at certain points, yet there is no consistent trend that I believe can be attached to this. 
+
+![final_graph](https://user-images.githubusercontent.com/75768098/105638424-2660f500-5e38-11eb-979b-52617b7db1d5.png)
+
 
 ## Analysis Conclusion
 
